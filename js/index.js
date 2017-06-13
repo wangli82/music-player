@@ -37,7 +37,7 @@
     function bindData(){
         if(data && data.length){
             // 绑定数据
-            // console.log(data);
+            console.log(data);
             var str = ''; // p , p , p
             $.each(data, function (index,item){
                 str += '<p id="'+ item.id +'" sec="'+ item.second +'"  min="'+ item.minute +'" >'+ item.content +'</p>';
