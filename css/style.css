@@ -130,8 +130,8 @@ html,body{
     color: rgba(255,255,255,.5);
     text-align: center;
     overflow: hidden;
-    font-size: 0.32rem;
-    letter-spacing: 0.04rem ;
+    font-size: 0.28rem;
+    letter-spacing: 0.03rem ;
 }
 .music .main .lyric p.cur{
     color: #89fa27;
